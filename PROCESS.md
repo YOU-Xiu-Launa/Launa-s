@@ -1,3 +1,2 @@
-I used a lot of AI
-CODING
+CODING COURSE
 NICEEEE :)
