@@ -13,3 +13,11 @@ My thesis is: AI can generate code on demand, but only if the demand has already
 My experience with AI-generated art often feels like a lottery. I train the AI, it gives me code that runs, but the result rarely matches what I had in mind. I want to push it closer to my idea, but I do not know which line to change or which parameter to adjust. I do not understand its logic, so all I can do is describe again and again. In that moment I realised: I can describe a feeling, but I cannot specify it. Specification is what makes a work truly mine.
 
 I have come to think of this as an intent gap — the distance between what I mean and what the code actually does. When AI can generate code fluently, the real question is no longer “can it write?” but “does it do what I intended?” For a designer, this means the role is shifting from direct control to what I would call curation: guiding the system through parameters, random seeds, and logical structures. Learning to program means learning to curate. That is how the work becomes truly mine.
+
+## A Program Is Not Yet a Product
+
+In the age of AI, people often confuse programs with products. AI is making the writing of programs cheap, but this only raises the value of knowing how a program becomes a product.
+
+Dylan Beattie (2025) draws a sharp distinction between “programs” and “products.” A program is code that runs on your machine: an experiment, a prototype, a temporary script. It can crash; you fix it and move on. “The code is just a means to an end. The result is what matters.” A product is software to be shipped, distributed, or sold. It requires handling encoding, internationalisation, concurrency, authentication, telemetry, billing, and deployment — “a whole different ball game.” Beattie notes that tools like Copilot and ChatGPT “empower people with minimal development experience to create their own programs… but that’s not product development, it’s programming. They aren’t the same thing. Not even close.”
+
+AI makes writing programs cheap, but it makes the ability to turn a program into a reliable, maintainable, deliverable product more valuable. I learn to program in order to gain that engineering judgement.
