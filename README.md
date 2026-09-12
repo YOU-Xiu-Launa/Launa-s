@@ -21,3 +21,9 @@ In the age of AI, people often confuse programs with products. AI is making the 
 Dylan Beattie (2025) draws a sharp distinction between “programs” and “products.” A program is code that runs on your machine: an experiment, a prototype, a temporary script. It can crash; you fix it and move on. “The code is just a means to an end. The result is what matters.” A product is software to be shipped, distributed, or sold. It requires handling encoding, internationalisation, concurrency, authentication, telemetry, billing, and deployment — “a whole different ball game.” Beattie notes that tools like Copilot and ChatGPT “empower people with minimal development experience to create their own programs… but that’s not product development, it’s programming. They aren’t the same thing. Not even close.”
 
 AI makes writing programs cheap, but it makes the ability to turn a program into a reliable, maintainable, deliverable product more valuable. I learn to program in order to gain that engineering judgement.
+
+## Code Is a Medium, Not Just a Tool
+
+If I do not understand the tool — if I do not understand how code is written and how it runs — I cannot use it to express.
+
+Beattie, a programmer and musician, often points to the common ground between developers and musicians. He discusses live coding performance, algoraves, and Sonic Pi — practices that treat programming itself as a performance medium. This aligns with Ihde’s (1990) argument that technologies are never neutral tools; they shape what we perceive as possible. If I never write code by hand, I cannot truly understand the medium’s properties and boundaries. AI can generate a piece of generative art code for me, but if I do not understand what loops, randomness, and parameterisation mean in code, I cannot judge whether it realises my intent, nor can I consciously extend it. Understanding the medium allows me to use it with intention rather than passively accept its output.
