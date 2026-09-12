@@ -1,7 +1,5 @@
 # Why Are We Here?
 
-## Introduction
-
 In my view, art and design share one fundamental thing with code: creation. A program can fuse creativity from different human domains, and code itself is a remarkable creative medium. But right now, some AI systems can already write working code from a single sentence of English. So why am I still here, as a designer in the field of art, learning a programming course? This is a question worth pausing over — when machines can increasingly do this on demand, why should I learn to program?
 
 Dylan Beattie’s talk *The Art of Code* (2019) shows a kind of code — Quine programs, code golf, the Rockstar programming language — that exists not to solve problems, but to explore what code can be. This reveals a blind spot in AI-generated code: it is good at producing function, but it does not understand expressive intent. AI can write code that runs, but it cannot write the intent (Beattie, 2019). That is why I am here: to become the one who can translate a vague feeling into executable logic, and judge whether the code actually realises that intent.
@@ -32,8 +30,16 @@ Beattie, a programmer and musician, often points to the common ground between de
 
 One might argue that AI will continue to improve and may soon understand intent more accurately, making most programming obsolete. But even if AI becomes better at generating code, someone still has to decide which output matches the intent. Understanding the medium lets me direct AI more precisely rather than being led by it. The skills that survive are medium literacy, judgement, and the ability to translate intent. If most of what I learn will eventually be obsolete, then what matters even more is learning to think with the medium — not memorising its grammar.
 
-## Conclusion
+## Why I Am Still Here
 
 Code is a logical language — a computer language, and in the digital age, something like a new universal language. What we need to do is learn its underlying logic, and master this tool and its modes of construction. “Code is written for humans to read,” and that means we need judgement — the kind that can only be developed by writing, revising, and refactoring by hand.
 
 AI can write code, but it cannot write the intent. Designers learn to program in order to define the demand, to master code as a medium of digital expression, and to gain intention, judgement, and authorship. I am not here to become a code worker, but to become an intentional creator. Even when machines can write working code from a sentence of English, the human role remains: to specify, to judge, and to author. That is why I am here.
+
+## Bibliography
+
+Beattie, D. (2019). *The art of code* [Video]. YouTube. https://www.youtube.com/watch?v=6avJHaC3C2U
+
+Beattie, D. (2025). *The problem with “vibe coding”*. Dylan Beattie. https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding
+
+Ihde, D. (1990). *Technology and the lifeworld: From garden to earth*. Indiana University Press.
