@@ -31,3 +31,7 @@ Beattie, a programmer and musician, often points to the common ground between de
 ## What If AI Keeps Getting Better?
 
 One might argue that AI will continue to improve and may soon understand intent more accurately, making most programming obsolete. But even if AI becomes better at generating code, someone still has to decide which output matches the intent. Understanding the medium lets me direct AI more precisely rather than being led by it. The skills that survive are medium literacy, judgement, and the ability to translate intent. If most of what I learn will eventually be obsolete, then what matters even more is learning to think with the medium — not memorising its grammar.
+
+## Conclusion
+
+Code is a logical language — a computer language, and in the digital age, something like a new universal language. What we need to do is learn its underlying logic, and master this tool and its modes of construction. “Code is written for humans to read,” and that means we need judgement — the kind that can only be developed by writing, revising, and refactoring by hand.
