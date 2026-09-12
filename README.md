@@ -1,5 +1,7 @@
 # Why Are We Here?
 
+## Introduction
+
 In my view, art and design share one fundamental thing with code: creation. A program can fuse creativity from different human domains, and code itself is a remarkable creative medium. But right now, some AI systems can already write working code from a single sentence of English. So why am I still here, as a designer in the field of art, learning a programming course? This is a question worth pausing over — when machines can increasingly do this on demand, why should I learn to program?
 
 Dylan Beattie’s talk *The Art of Code* (2019) shows a kind of code — Quine programs, code golf, the Rockstar programming language — that exists not to solve problems, but to explore what code can be. This reveals a blind spot in AI-generated code: it is good at producing function, but it does not understand expressive intent. AI can write code that runs, but it cannot write the intent. That is why I am here: to become the one who can translate a vague feeling into executable logic, and judge whether the code actually realises that intent.
