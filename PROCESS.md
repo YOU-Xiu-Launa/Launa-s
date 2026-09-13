@@ -13,7 +13,7 @@ DeepSeek gave me a term for a problem I had already felt: the intent gap. I desc
 
 ## What I rejected
 
-The AI generated a paragraph arguing that “programming is the new literacy” and that “everyone should learn to code.” I rejected it. It sounded plausible, but it was generic and did not reflect my argument. My point is not that everyone should code — it is that **designers** need to understand code as a medium in order to keep authorship. The AI’s version was a slogan, not my position.
+DeepSeek suggested that “programming is the new literacy” and that “everyone should learn to code.” I rejected this. It sounded reasonable, but it was too general and did not reflect my argument precisely. My point is not that everyone should learn to code — it is that designers need to understand code as a medium in order to keep their authorship. What DeepSeek offered was a slogan, not my position. I also rejected a few fluent but empty sentences, such as “technology is changing rapidly and we must adapt.”
 
 ## Verification
 
