@@ -42,7 +42,7 @@ Beattie, D. (2019). *The art of code* [Video]. YouTube. https://www.youtube.com/
 
 Beattie, D. (2025). *The problem with “vibe coding”*. Dylan Beattie. https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html
 
-Huang, W. (2025). From parametric determinism to emergent fusion: Data-curated style control in connectionist architecture. *Nexus Network Journal*. https://doi.org/10.1007/s00004-025-00852-w
+Huang, S.-Y. (2026). From parametric determinism to emergent fusion: Data-curated style control in connectionist architecture. *Nexus Network Journal*. https://doi.org/10.1007/s00004-025-00852-w
 
 Ihde, D. (1990). *Technology and the lifeworld: From garden to earth*. Indiana University Press.
 
