@@ -2,7 +2,7 @@
 
 ## Tools used
 
-I used ChatGPT and Claude for brainstorming, structuring my thoughts, and checking my English phrasing. I wrote all the core arguments and examples myself, based on my own experience with AI-generated art and my reading of Dylan Beattie and Don Ihde.
+I used DeepSeek for brainstorming, structuring my thoughts, and checking my English phrasing. I wrote all the core arguments and examples myself, based on my own experience with AI-generated art and my reading of Dylan Beattie and Don Ihde.
 
 ## What I kept
 
