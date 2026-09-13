@@ -9,7 +9,7 @@ The core thesis, the personal example about AI-generated art feeling like a lott
 
 ## What I kept
 
-The AI helped me find the academic name for something I had experienced but could not articulate: the **intent gap**. I had written about the “lottery” feeling of prompting AI for art, and the AI pointed me to Lahiri’s (2026) paper, which defines the gap between informal intent and precise program behaviour. That concept became the backbone of my second section, and it was a genuine help — it gave my personal observation a precise vocabulary.
+DeepSeek gave me a term for a problem I had already felt: the intent gap. I described my experience of prompting AI to make art as a lottery — it gave me code that ran, but not what I wanted to express. DeepSeek pointed me to Lahiri’s (2026) paper, which defines the gap between informal intent and precise program behaviour. This concept became the backbone of my second section. I kept it because it gave my personal experience a precise name. It was still my experience, just better articulated.
 
 ## What I rejected
 
