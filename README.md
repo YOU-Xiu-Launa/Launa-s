@@ -10,7 +10,7 @@ My thesis is: AI can generate code on demand, but only if the demand has already
 
 My experience with AI-generated art often feels like a lottery. I train the AI, it gives me code that runs, but the result rarely matches what I had in mind. I want to push it closer to my idea, but I do not know which line to change or which parameter to adjust. I do not understand its logic, so all I can do is describe again and again. In that moment I realised: I can describe a feeling, but I cannot specify it. Specification is what makes a work truly mine.
 
-I have come to think of this as an intent gap — the distance between what I mean and what the code actually does (Lahiri, 2026). When AI can generate code fluently, the real question is no longer “can it write?” but “does it do what I intended?” For a designer, this means the role is shifting from direct control to what I would call curation: guiding the system through parameters, random seeds, and logical structures (Huang, 2025). Learning to program means learning to curate. That is how the work becomes truly mine.
+I have come to think of this as an intent gap — the distance between what I mean and what the code actually does (Lahiri, 2026). When AI can generate code fluently, the real question is no longer “can it write?” but “does it do what I intended?” For a designer, this means the role is shifting from direct control to what I would call curation: guiding the system through parameters, random seeds, and logical structures (Huang, 2026). Learning to program means learning to curate. That is how the work becomes truly mine.
 
 ## A Program Is Not Yet a Product
 
@@ -46,4 +46,4 @@ Huang, S.-Y. (2026). From parametric determinism to emergent fusion: Data-curate
 
 Ihde, D. (1990). *Technology and the lifeworld: From garden to earth*. Indiana University Press.
 
-Lahiri, S. K. (2026). *Intent formalization: A grand challenge for reliable coding in the age of AI agents*(arXiv:2603.17150). arXiv. https://arxiv.org/abs/2603.17150
+Lahiri, S. K. (2026). *Intent formalization: A grand challenge for reliable coding in the age of AI agents* (arXiv:2603.17150). arXiv. https://arxiv.org/abs/2603.17150
