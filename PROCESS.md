@@ -2,7 +2,10 @@
 
 ## Tools used
 
-I used DeepSeek for brainstorming, structuring my thoughts, and checking my English phrasing. I wrote all the core arguments and examples myself, based on my own experience with AI-generated art and my reading of Dylan Beattie and Don Ihde.
+I used DeepSeek.
+I started by reading the assignment brief and watching Dylan Beattie’s *The Art of Code*. It gave me a lot of immediate reactions, so I jotted down my own opinions, examples, and questions as they came. I then gave those notes to DeepSeek and asked it to help me organise them into a logical argument structure. I wrote the first draft myself within that structure. 
+Because English is not my first language, I used DeepSeek to correct grammar, word choice, and phrasing.
+The core thesis, the personal example about AI-generated art feeling like a lottery, and my reading of Beattie and Ihde all came from my own thinking.
 
 ## What I kept
 
